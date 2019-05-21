@@ -1,4 +1,4 @@
-def my_each(array) { |i| puts i }
+def my_each(array)
   
   i = 0 
   
@@ -11,3 +11,4 @@ def my_each(array) { |i| puts i }
     
   
 end
+
